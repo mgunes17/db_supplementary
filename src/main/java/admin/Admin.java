@@ -1,10 +1,6 @@
 package admin;
 
-import model.Token;
-
-import java.util.HashSet;
 import java.util.Scanner;
-import java.util.Set;
 
 /**
  * Created by mustafa on 26.04.2017.
